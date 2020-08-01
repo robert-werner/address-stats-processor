@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/1-floor buildings 2020.05.26 11.06.01.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/1-floor buildings 2020.05.26 11.07.18.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/2-floor buildings 2020.05.26 11.07.25.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/3-floor buildings 2020.05.26 11.07.31.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/4-floor buildings 2020.05.26 11.07.36.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.04.10.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.10.38.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.11.55.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/AddressStatistics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/AddressStatisticsCSVWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/Main.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
