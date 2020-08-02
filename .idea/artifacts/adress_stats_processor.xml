@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="adress-stats-processor">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="adress-stats-processor.jar" />
+  </artifact>
+</component>

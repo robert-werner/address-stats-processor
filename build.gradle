@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.kolesnichenko'
+group 'org.robertwerner'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -11,7 +11,7 @@ repositories {
 
 jar {
     manifest {
-        attributes "Main-Class": "org.kolesnichenko.Main"
+        attributes "Main-Class": "org.robertwerner.Main"
     }
 
     from {

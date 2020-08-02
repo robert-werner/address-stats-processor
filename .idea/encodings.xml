@@ -9,9 +9,9 @@
     <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.04.10.csv" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.10.38.csv" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/recordOccurences 2020.05.26 10.11.55.csv" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/AddressStatistics.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/AddressStatisticsCSVWriter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/kolesnichenko/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/robertwertner/AddressStatistics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/robertwertner/AddressStatisticsCSVWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/robertwertner/Main.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
